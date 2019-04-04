@@ -1,0 +1,54 @@
+a{
+	color: red;
+}
+a:hover{
+	color: green;
+}
+a:visited{
+	color:blue;
+}
+#p02:first-letter{
+	font-size: 50px;
+	font-weight: bold;
+}
+h1{
+	
+	font-style: italic;
+	font-family: courier;
+	font-size: 300%;
+	text-shadow: 5px 5px red;
+}
+#p01{
+	font-family: verdana;
+	font-weight: bolder;
+	border: 1px solid blue;
+	padding: 50px;
+	margin: 50px;
+	background-color: red;
+	text-align: justify;
+	text-decoration: underline;
+	text-indent: 50px;
+	text-transform: capitalize;
+	text-shadow: 1px 1px 1px blue; 
+	word-spacing: 50px;
+	letter-spacing: 20px;
+}
+body{
+	background-color: powderblue;
+	/*background-image: url("abc.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;*/
+}
+img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto; 
+}
+#table01{
+	margin-left: auto;
+	margin-right:auto; 
+}
+.div1{
+	color: black;
+}
